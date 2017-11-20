@@ -7,3 +7,5 @@ something_int = int (something_string)
 print (something_int)
 something_float = float (something_string)
 print (something_float)
+
+# Python can print numbers, but it can't print a letter. 
